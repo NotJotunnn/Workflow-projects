@@ -71,19 +71,19 @@
             <th align="center">
                 <img width="300" height="1"> 
                 <p> 
-                    <small>NOME</small>
+                    <small>NAME</small>
                 </p>
             </th>
             <th align="left">
                 <img width="140" height="1">
                 <p align="left"> 
-                    <small>DATA DE LANÇAMENTO</small>
+                    <small>RELEASE DATE</small>
                 </p>
             </th>
             <th align="center">
                 <img width="201" height="1">
                 <p align="center"> 
-                    <small>IMAGEM</small>
+                    <small>PREVIEW</small>
                 </p>
             </th>
         </tr>
