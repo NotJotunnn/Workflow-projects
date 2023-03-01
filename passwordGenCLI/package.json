@@ -1,0 +1,14 @@
+{
+  "name": "passwordv2",
+  "version": "1.0.0",
+  "description": "Neato password generator",
+  "main": "passwordGen.js",
+  "type": "module", 
+  "scripts": {},
+  "keywords": [],
+  "author": "NotJotunnn",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
+}
