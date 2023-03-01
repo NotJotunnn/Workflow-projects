@@ -28,6 +28,8 @@
   <img src="./github/fint.jpg" />
 </p>
 
+![fint](https://user-images.githubusercontent.com/110733156/222234677-0bfaebcb-5ca5-41b8-b969-84437013c8f9.gif)
+
 ## Descrição
 
 Este foi meu primeiro projeto com o objetivo de melhorar minha experiência como dev! Servindo de 1/2 das operações, a outra metade sendo o .zsh, que possibilitou de fazer chamadas mais precisas com comandos fixos, como demonstrado abaixo:
