@@ -22,6 +22,8 @@
   <img src="./github/passwordgen.jpg" />
 </p>
 
+![passwordGen](https://user-images.githubusercontent.com/110733156/222234250-53a670db-9931-4987-8e45-8a4f2b105cfe.gif)
+
 ## Descrição
 
 Este em outra mão, foi criado para mais fácil gerar senhas sem a necessidade de manter nenhuma em um navegador!
